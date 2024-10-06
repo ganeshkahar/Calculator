@@ -1,0 +1,36 @@
+body{
+    display: flex;
+    margin: 2%;
+    
+    background-image: url('https://www.flipkart.com/noise-buds-mvp102-dual-pairing-60-hours-playtime-ultra-low-latency-enc-quad-mic-bluetooth/p/itm79f876c3dadb2?pid=ACCHYJMAHK35RWRZ&lid=LSTACCHYJMAHK35RWRZYYIZEQ&marketplace=FLIPKART&q=earbuds&store=0pm%2Ffcn%2F821%2Fa7x%2F2si&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=en_2RNTYpDJxk0XQd80_S9smQvUQwfgEOAW5jfcncHhivxj6cI5L9uFoVCOWJX_ij04DvTluzjPJmfnyEFVIjhhS_UFjCTyOHoHZs-Z5_PS_w0%3D&ppt=sp&ppn=sp&ssid=rd71lv89400000001727376219505&qH=2951f68ff1fee1e0');
+}
+
+#calculator{
+  border: 2px solid rgba(176, 200, 176, 0.915);
+border-radius: 5px;
+width: 400px;
+background-color: aqua;
+}
+#display{
+    margin: 20px;
+    width: 86%;
+    height: 40px;
+    font-size: 20px;
+  
+
+}
+.butoon-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.button{
+    width: 90px;
+    height: 80px;
+    margin: 3px;
+    font-size: x-large;
+    
+}
+button:hover{
+    background-color: silver;
+}
